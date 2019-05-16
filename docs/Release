@@ -1,0 +1,11 @@
+Origin: Pit's Repo
+Label: Pit's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: kid1carus' Cydia and Sileo repo.
+
+SHA256:
+ 245be391d193fd07fcf2c2b153be9d0c20f0d527520db8a66c4cfe7de01ba048 553 Packages.bz2
